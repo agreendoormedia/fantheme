@@ -1,3 +1,16 @@
 {
-    name:"CSS F.A.N - CSS For Absolute Novices"
+    "product":
+    {
+        "title":"CSSFAN",
+        "subtitle":"CSS For Absolute Novices",
+        "description":"Joomla Template Development by @agreendoormedia",
+        "version":"0.0.1 Alpha",
+    }
+    "author":
+    {
+        "name":"Silas Sethole",
+        "aka":"SillyWest.beats",
+        "twitter":"@agreendoormedia | @silasworx",
+        "email":"silas@agreendoormedia.com",
+    }
 }
