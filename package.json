@@ -1,10 +1,14 @@
 {
-    "product":
+    "project":
     {
         "title":"CSSFAN",
         "subtitle":"CSS For Absolute Novices",
         "description":"Joomla Template Development by @agreendoormedia",
         "version":"0.0.1 Alpha",
+        "devDependencies":
+        {
+            
+        }
     }
     "author":
     {
